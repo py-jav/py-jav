@@ -1,24 +1,46 @@
-### Hi there 👋
+# 👋 Hi, I'm py-jav
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=py-jav&left_color=gray&right_color=blue)
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=py-jav&theme=vue)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=py-jav&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/[YourGitHubUsername])  <!-- GitHub profile view counter -->
 
-[![Top Langs](https://github-stats-evirunurm.vercel.app/api/languages.js?username=py-jav)](https://github.com/anuraghazra/github-readme-stats)
+## 🌱 About Me
 
-<!--
-**py-jav/py-jav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [project name or "various projects"].
+- 🌱 I’m currently learning [technology or topic].
+- 👯 I’m looking to collaborate on [project or technology].
+- 🤔 I’m looking for help with [specific thing].
+- 💬 Ask me about [topic or technology].
+- 📫 How to reach me: [email or other contact method].
+- 😄 Pronouns: [e.g., He/Him, She/Her, They/Them].
+- ⚡ Fun fact: [fun fact about you].
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+
+- [Language 1]
+- [Language 2]
+- [Language 3]
+- ...
+
+### Tools & Technologies:
+
+- [Tool/Technology 1]
+- [Tool/Technology 2]
+- ...
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[py-jav]&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[py-jav]&layout=compact)
+
+## 🤝 Connect with me:
+
+[<img align="left" alt="YourWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YourLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="YourTwitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+...
+
+[website]: https://yourwebsite.com
+[linkedin]: https://linkedin.com/in/yourusername
+[twitter]: https://twitter.com/yourusername
