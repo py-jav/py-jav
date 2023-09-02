@@ -1,7 +1,8 @@
-# 👋 Hi, I'm py-jav
+<!--# 👋 Hi, I'm py-jav
 
 ![Profile views](https://gpvc.arturio.dev/py-jav)  <!-- GitHub profile view counter -->
 
+<!--
 ## 🌱 About Me
 
 - 🔭 I’m currently working on [project name or "various projects"].
@@ -28,7 +29,6 @@
 - [Tool/Technology 2]
 - ...
 
-<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=py-jav&show_icons=true)
