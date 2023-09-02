@@ -28,21 +28,21 @@
 - [Tool/Technology 2]
 - ...
 
+<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=py-jav&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=py-jav&layout=compact)
 
-[](
-## 🤝 Connect with me:\
-\
-[<img align="left" alt="YourWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]\
-[<img align="left" alt="YourLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]\
-[<img align="left" alt="YourTwitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]\
-...\
-\
-[website]: https://yourwebsite.com\
-[linkedin]: https://linkedin.com/in/yourusername\
-[twitter]: https://twitter.com/yourusername\
-)
+## 🤝 Connect with me:
+
+[<img align="left" alt="YourWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YourLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="YourTwitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+...
+
+[website]: https://yourwebsite.com
+[linkedin]: https://linkedin.com/in/yourusername
+[twitter]: https://twitter.com/yourusername
+-->
